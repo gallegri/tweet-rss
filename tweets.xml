@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>My Auto Tweets</title>
+  <link>https://twitter.com/youraccount</link>
+  <description>Auto-generated controversial tweet feed</description>
+  <item>
+    <title>🔥 Will the US really attack Iran?</title>
+    <link>https://twitter.com/youraccount/status/dummyid</link>
+    <description>The possibility of U.S. military action in Iran is no longer just fiction... #BreakingNews #WorldPolitics #Conflict</description>
+    <pubDate>Thu, 19 Jun 2025 12:00:00 +0000</pubDate>
+  </item>
+</channel>
+</rss>
